@@ -41,18 +41,18 @@
     },
 
     "projects": [{
-            "title": "HackMyResume",
-            "category": "FOSS",
+            "title": "Aton",
+            "category": "Administration",
             "role": "contributor",
-            "url": "http://please.hackmyresume.com",
-            "start": "2015-09",
-            "repo": "https://github.com/hacksalot/hackmyresume",
-            "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
-            "summary": "Exemplar user for HackMyResume and FluentCV!",
-            "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
+            "url": "camilosampedro.me/Aton",
+            "start": "2014-01",
+            "repo": "https://github.com/camilosampedro/Aton",
+            "description": "Administrador de laboratorios web open source.",
+            "summary": "Un proyecto personal para administrar salas de computadores. Me gusta trabajar en él cuando tengo tiempo libre y quiero aprender a emplear una nueva tecnología.",
+            "keywords": ["PlayFramework", "Angular2", "Slick", "SSH", "H2"],
             "media": [{
                 "category": "download",
-                "url": "https://www.npmjs.com/package/hackmyresume"
+                "url": "https://github.com/camilosampedro/Aton/releases"
             }]
         },
         {
@@ -223,60 +223,12 @@
         ]
 
     },
-
-    "samples": [{
-            "title": "Asteroids",
-            "summary": "A browser-based space shooter built on Three.js.",
-            "url": "http://janef.me/asteroids",
-            "date": "2014-09"
-        },
-        {
-            "title": "Rememberpedia",
-            "summary": "A website to help you remember things.",
-            "url": "https://rememberpedia.com",
-            "date": "2015-07"
-        }
-    ],
     "reading": [{
         "title": "Programming in Scala",
         "author": "Martin Odersky",
         "flavor": "book",
         "summary": "Libro de programación del lenguaje Scala"
     }],
-
-    "references": [{
-            "name": "Manuel Guillermo Ochoa",
-            "flavor": "professional",
-            "private": true,
-            "contact": [{
-                    "label": "Celular",
-                    "flavor": "phone",
-                    "value": "+57 316 7449599"
-                },
-                {
-                    "label": "Work email",
-                    "flavor": "email",
-                    "value": "mguillermo.ochoa@udea.ed.co"
-                }
-            ]
-        },
-        {
-            "name": "Juan Manuel Flórez Arias",
-            "flavor": "professional",
-            "private": true,
-            "contact": [{
-                    "label": "Celular",
-                    "flavor": "phone",
-                    "value": "+57 316 7449599"
-                },
-                {
-                    "label": "Work email",
-                    "flavor": "email",
-                    "value": "mguillermo.ochoa@udea.ed.co"
-                }
-            ]
-        }
-    ],
 
     "testimonials": [{
             "name": "Michael Osorio",
@@ -293,7 +245,7 @@
         {
             "name": "Juan Manuel Flórez Arias",
             "flavor": "personal",
-            "quote": "__Teléfono:__ . __Email:__ ``",
+            "quote": "__Teléfono:__ +57 311 623 8339. __Email:__ ``",
             "private": true
         },
         {
@@ -311,68 +263,16 @@
     ],
 
     "languages": [{
-            "language": "English",
-            "level": "Native"
-        },
-        {
             "language": "Spanish",
-            "level": "Moderate",
-            "years": 10
-        }
-    ],
-
-    "extracurricular": [{
-            "title": "Bay Area Crew Club",
-            "activity": "",
-            "location": "San Francisco, CA",
-            "start": "2014-05"
+            "level": "native"
         },
         {
-            "title": "Organizer / Manager",
-            "activity": "JavaScript Game Development Meetup",
-            "location": "Austin, TX",
-            "start": "2011-03",
-            "end": "2014-01",
-            "highlights": [
-                "Monthly speaker on creative JavaScript development.",
-                "Founded group and oversaw growth to 500+ members."
-            ]
-
-        }
-    ],
-
-    "governance": [{
-            "flavor": "board",
-            "role": "Member",
-            "organization": "The Mommies Network",
-            "url": "http://themommiesnetwork.org",
-            "start": "2008-02",
-            "end": "2010-01",
-            "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
+          "language": "English",
+          "level": "advanced"
         },
         {
-            "flavor": "committee",
-            "role": "Academic Contributor",
-            "organization": "Khronos Group",
-            "url": "https://www.khronos.org",
-            "start": "2015-01",
-            "highlights": [
-                "Participated in GORFF standardization process (Draft 2)."
-            ]
-        }
-    ],
-
-    "interests": [{
-            "name": "reading",
-            "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
-            "keywords": ["mystery", "Agatha Christie", "John Grisham"]
-        },
-        {
-            "name": "hiking",
-            "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
-        },
-        {
-            "name": "yoga"
+            "language": "Japanese",
+            "level": "moderate"
         }
     ]
 
