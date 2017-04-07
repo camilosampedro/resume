@@ -1,0 +1,12 @@
+{
+    "sectionTitles": {
+        "summary": "información",
+        "info": "información",
+        "employment": "empleo",
+        "skills": "habilidades",
+        "experience": "experiencia",
+        "about": "acerca de",
+        "education": "educación",
+        "projects": "proyectos"
+    }
+}
