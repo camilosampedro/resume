@@ -11,7 +11,7 @@
         "label": "Estudiante ingeniería de sistemas",
         "characterClass": "Programmer",
         "brief": "**Me gusta involucrarme en nuevas tecnologías**, darle solución a las problemas que surgen de las necesidades y no de los deseos. Disfruto compartir mis experiencias con otras personas. Me he involucrado en los últimos temas de **Big Data**: Apache Spark, Apache Hadoop, Apache Hive, Apache Kylin y Apache Zeppelin. Me apasiona Linux y los proyectos open source. Dentro del desarrollo, mi punto fuerte está en el desarrollo de backend con Scala o Java, aunque he trabajado también en frontend.",
-        "image": "jane_doe.png",
+        "image": "https://s.gravatar.com/avatar/c45921bcb4c51566eface14f2820283e?s=80",
         "quote": "Be the change you want to see in the world."
     },
 
@@ -43,8 +43,8 @@
     "projects": [{
             "title": "Aton",
             "category": "Administration",
-            "role": "contributor",
-            "url": "camilosampedro.me/Aton",
+            "role": "founder",
+            "url": "http://camilosampedro.me/Aton",
             "start": "2014-01",
             "repo": "https://github.com/camilosampedro/Aton",
             "description": "Administrador de laboratorios web open source.",
@@ -54,27 +54,6 @@
                 "category": "download",
                 "url": "https://github.com/camilosampedro/Aton/releases"
             }]
-        },
-        {
-            "title": "Augmented Android",
-            "category": "commercial",
-            "role": "co-creator",
-            "url": "http://project.website.com",
-            "repo": "http://repo.website.com",
-            "description": "An augmented reality app for Android.",
-            "start": "2012-02",
-            "end": "2014-01",
-            "summary": "Performed flagship product conceptualization and development.",
-            "keywords": ["Android", "Java", "Xamarin"]
-        },
-        {
-            "title": "Blog",
-            "category": "personal",
-            "role": "creator",
-            "url": "http://myblog.jane.com/blog",
-            "description": "My programming blog. Powered by Jekyll.",
-            "summary": "Conceptualization, design, development, and deployment.",
-            "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
         }
     ],
 
@@ -245,7 +224,7 @@
         {
             "name": "Juan Manuel Flórez Arias",
             "flavor": "personal",
-            "quote": "__Teléfono:__ +57 311 623 8339. __Email:__ ``",
+            "quote": "__Teléfono:__ +57 311 623 8339. __Email:__ `juan.florezarias@gmail.com`",
             "private": true
         },
         {
